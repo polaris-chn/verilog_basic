@@ -1,0 +1,120 @@
+{
+    "stat": {
+        "ru_self_end": {
+            "ru_utime_sec": 0.13560900000000001,
+            "ru_stime_sec": 0.10727200000000001,
+            "ru_nivcsw": 34,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 70844,
+            "ru_minflt": 28051,
+            "ru_nvcsw": 68
+        },
+        "ru_childs_end": {
+            "ru_utime_sec": 0.033617000000000001,
+            "ru_stime_sec": 0.055671999999999999,
+            "ru_nivcsw": 24,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 17116,
+            "ru_minflt": 10926,
+            "ru_nvcsw": 28
+        },
+        "peak_mem_kb": 276736
+    },
+    "Modules": {
+        "...MASTER...": {
+            "nMops": 0,
+            "start_perf": [
+                0.23469686508178711,
+                0.098449999999999996,
+                0.094390000000000002,
+                263720,
+                276736,
+                1627740683.2970719
+            ],
+            "end_perf": [
+                0.24519181251525879,
+                0.10025199999999999,
+                0.098226999999999995,
+                265204,
+                276736
+            ],
+            "nQuads": 0
+        },
+        "vending_machine_tb": {
+            "nMops": 1212,
+            "start_perf": [
+                0.25333786010742188,
+                0.10634,
+                0.100263,
+                265220,
+                276736,
+                1627740683.3157129
+            ],
+            "nQuads": 645,
+            "Compiled": "Yes",
+            "Compiled Times": 4,
+            "end_perf": [
+                0.28182291984558105,
+                0.13172,
+                0.10335,
+                269420,
+                276736
+            ]
+        },
+        "std": {
+            "nMops": 528,
+            "start_perf": [
+                0.24544501304626465,
+                0.100369,
+                0.098340999999999998,
+                265204,
+                276736,
+                1627740683.3078201
+            ],
+            "nQuads": 218,
+            "Compiled": "Yes",
+            "Compiled Times": 4,
+            "end_perf": [
+                0.25323796272277832,
+                0.10628799999999999,
+                0.100214,
+                265220,
+                276736
+            ]
+        }
+    },
+    "CompUnits": {
+        "BeLSr_d": {
+            "mod": "vending_machine_tb",
+            "mode": 4,
+            "out": "BeLSr_d.o",
+            "archive": "archive.3/_1990_archive_1.a",
+            "bytes": 27302,
+            "checksum": 0
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "reYIK_d": {
+            "icPath": "csrc"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.3/_1990_archive_1.a",
+            "objects": [
+                [
+                    "BeLSr_d.o",
+                    27302
+                ],
+                [
+                    "amcQwB.o",
+                    97478
+                ]
+            ],
+            "size": 124780
+        }
+    ]
+}
