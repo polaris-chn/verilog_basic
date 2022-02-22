@@ -1,0 +1,361 @@
+86276:   /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/Novas -nologo
+0000000000400000 143056K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/novas
+00000000091b4000  12624K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/novas
+0000000009e08000  67696K rw---    [ anon ]
+000000000ebe2000 102300K rw---    [ anon ]
+0000003a44e00000     96K r-x--  /usr/lib64/libXmu.so.6.2.0
+0000003a44e18000   2048K -----  /usr/lib64/libXmu.so.6.2.0
+0000003a45018000      8K rw---  /usr/lib64/libXmu.so.6.2.0
+0000003dfd200000    128K r-x--  /lib64/ld-2.12.so
+0000003dfd41f000      4K r----  /lib64/ld-2.12.so
+0000003dfd420000      4K rw---  /lib64/ld-2.12.so
+0000003dfd421000      4K rw---    [ anon ]
+0000003dfd600000    524K r-x--  /lib64/libm-2.12.so
+0000003dfd683000   2044K -----  /lib64/libm-2.12.so
+0000003dfd882000      4K r----  /lib64/libm-2.12.so
+0000003dfd883000      4K rw---  /lib64/libm-2.12.so
+0000003dfda00000   1576K r-x--  /lib64/libc-2.12.so
+0000003dfdb8a000   2048K -----  /lib64/libc-2.12.so
+0000003dfdd8a000     16K r----  /lib64/libc-2.12.so
+0000003dfdd8e000      4K rw---  /lib64/libc-2.12.so
+0000003dfdd8f000     20K rw---    [ anon ]
+0000003dfde00000     92K r-x--  /lib64/libpthread-2.12.so
+0000003dfde17000   2048K -----  /lib64/libpthread-2.12.so
+0000003dfe017000      4K r----  /lib64/libpthread-2.12.so
+0000003dfe018000      4K rw---  /lib64/libpthread-2.12.so
+0000003dfe019000     16K rw---    [ anon ]
+0000003dfe200000      8K r-x--  /lib64/libdl-2.12.so
+0000003dfe202000   2048K -----  /lib64/libdl-2.12.so
+0000003dfe402000      4K r----  /lib64/libdl-2.12.so
+0000003dfe403000      4K rw---  /lib64/libdl-2.12.so
+0000003dfe600000     28K r-x--  /lib64/librt-2.12.so
+0000003dfe607000   2044K -----  /lib64/librt-2.12.so
+0000003dfe806000      4K r----  /lib64/librt-2.12.so
+0000003dfe807000      4K rw---  /lib64/librt-2.12.so
+0000003dfea00000     84K r-x--  /lib64/libz.so.1.2.3
+0000003dfea15000   2044K -----  /lib64/libz.so.1.2.3
+0000003dfec14000      4K r----  /lib64/libz.so.1.2.3
+0000003dfec15000      4K rw---  /lib64/libz.so.1.2.3
+0000003e00a00000      8K r-x--  /usr/lib64/libXau.so.6.0.0
+0000003e00a02000   2048K -----  /usr/lib64/libXau.so.6.0.0
+0000003e00c02000      4K rw---  /usr/lib64/libXau.so.6.0.0
+0000003e00e00000    120K r-x--  /usr/lib64/libxcb.so.1.1.0
+0000003e00e1e000   2044K -----  /usr/lib64/libxcb.so.1.1.0
+0000003e0101d000      4K rw---  /usr/lib64/libxcb.so.1.1.0
+0000003e01600000   1244K r-x--  /usr/lib64/libX11.so.6.3.0
+0000003e01737000   2048K -----  /usr/lib64/libX11.so.6.3.0
+0000003e01937000     24K rw---  /usr/lib64/libX11.so.6.3.0
+0000003e01a00000     68K r-x--  /usr/lib64/libXext.so.6.4.0
+0000003e01a11000   2048K -----  /usr/lib64/libXext.so.6.4.0
+0000003e01c11000      4K rw---  /usr/lib64/libXext.so.6.4.0
+0000003e01e00000    152K r-x--  /lib64/libexpat.so.1.5.2
+0000003e01e26000   2044K -----  /lib64/libexpat.so.1.5.2
+0000003e02025000     12K rw---  /lib64/libexpat.so.1.5.2
+0000003e02200000    608K r-x--  /usr/lib64/libfreetype.so.6.3.22
+0000003e02298000   2044K -----  /usr/lib64/libfreetype.so.6.3.22
+0000003e02497000     24K rw---  /usr/lib64/libfreetype.so.6.3.22
+0000003e02e00000    208K r-x--  /usr/lib64/libfontconfig.so.1.4.4
+0000003e02e34000   2048K -----  /usr/lib64/libfontconfig.so.1.4.4
+0000003e03034000      8K rw---  /usr/lib64/libfontconfig.so.1.4.4
+0000003e03200000     36K r-x--  /usr/lib64/libXrender.so.1.3.0
+0000003e03209000   2044K -----  /usr/lib64/libXrender.so.1.3.0
+0000003e03408000      4K rw---  /usr/lib64/libXrender.so.1.3.0
+0000003e03600000    392K r-x--  /usr/lib64/libtiff.so.3.9.4
+0000003e03662000   2044K -----  /usr/lib64/libtiff.so.3.9.4
+0000003e03861000     12K rw---  /usr/lib64/libtiff.so.3.9.4
+0000003e03e00000     36K r-x--  /usr/lib64/libXcursor.so.1.0.2
+0000003e03e09000   2048K -----  /usr/lib64/libXcursor.so.1.0.2
+0000003e04009000      4K rw---  /usr/lib64/libXcursor.so.1.0.2
+0000003e04200000     20K r-x--  /usr/lib64/libXfixes.so.3.1.0
+0000003e04205000   2044K -----  /usr/lib64/libXfixes.so.3.1.0
+0000003e04404000      4K rw---  /usr/lib64/libXfixes.so.3.1.0
+0000003e04600000      8K r-x--  /usr/lib64/libXinerama.so.1.0.0
+0000003e04602000   2044K -----  /usr/lib64/libXinerama.so.1.0.0
+0000003e04801000      4K rw---  /usr/lib64/libXinerama.so.1.0.0
+0000003e06e00000     36K r-x--  /usr/lib64/libXrandr.so.2.2.0
+0000003e06e09000   2044K -----  /usr/lib64/libXrandr.so.2.2.0
+0000003e07008000      4K rw---  /usr/lib64/libXrandr.so.2.2.0
+0000003e07e00000    380K r-x--  /usr/lib64/libXt.so.6.0.0
+0000003e07e5f000   2044K -----  /usr/lib64/libXt.so.6.0.0
+0000003e0805e000     24K rw---  /usr/lib64/libXt.so.6.0.0
+0000003e08064000      4K rw---    [ anon ]
+0000003e08200000     16K r-x--  /lib64/libuuid.so.1.3.0
+0000003e08204000   2044K -----  /lib64/libuuid.so.1.3.0
+0000003e08403000      4K rw---  /lib64/libuuid.so.1.3.0
+0000003e08a00000    136K r-x--  /lib64/libncurses.so.5.7
+0000003e08a22000   2044K -----  /lib64/libncurses.so.5.7
+0000003e08c21000      4K rw---  /lib64/libncurses.so.5.7
+0000003e09200000     80K r-x--  /usr/lib64/libXft.so.2.3.1
+0000003e09214000   2048K -----  /usr/lib64/libXft.so.2.3.1
+0000003e09414000      4K rw---  /usr/lib64/libXft.so.2.3.1
+0000003e09a00000     28K r-x--  /usr/lib64/libSM.so.6.0.1
+0000003e09a07000   2048K -----  /usr/lib64/libSM.so.6.0.1
+0000003e09c07000      4K rw---  /usr/lib64/libSM.so.6.0.1
+0000003e09e00000     92K r-x--  /usr/lib64/libICE.so.6.3.0
+0000003e09e17000   2048K -----  /usr/lib64/libICE.so.6.3.0
+0000003e0a017000      4K rw---  /usr/lib64/libICE.so.6.3.0
+0000003e0a018000     16K rw---    [ anon ]
+0000003e0a200000    252K r-x--  /usr/lib64/libjpeg.so.62.0.0
+0000003e0a23f000   2048K -----  /usr/lib64/libjpeg.so.62.0.0
+0000003e0a43f000      4K rw---  /usr/lib64/libjpeg.so.62.0.0
+0000003e0a440000     64K rw---    [ anon ]
+0000003e0a600000      8K r-x--  /usr/lib64/libXss.so.1.0.0
+0000003e0a602000   2048K -----  /usr/lib64/libXss.so.1.0.0
+0000003e0a802000      4K rw---  /usr/lib64/libXss.so.1.0.0
+0000003e0ca00000     88K r-x--  /lib64/libnsl-2.12.so
+0000003e0ca16000   2044K -----  /lib64/libnsl-2.12.so
+0000003e0cc15000      4K r----  /lib64/libnsl-2.12.so
+0000003e0cc16000      4K rw---  /lib64/libnsl-2.12.so
+0000003e0cc17000      8K rw---    [ anon ]
+00007f095c000000    156K rw---    [ anon ]
+00007f095c027000  65380K -----    [ anon ]
+00007f0964000000    132K rw---    [ anon ]
+00007f0964021000  65404K -----    [ anon ]
+00007f0968000000   4456K rw---    [ anon ]
+00007f096845a000  61080K -----    [ anon ]
+00007f096c000000    132K rw---    [ anon ]
+00007f096c021000  65404K -----    [ anon ]
+00007f0972ffe000      4K -----    [ anon ]
+00007f0972fff000   6144K rw---    [ anon ]
+00007f09735ff000      4K -----    [ anon ]
+00007f0973600000  10240K rw---    [ anon ]
+00007f0974000000    132K rw---    [ anon ]
+00007f0974021000  65404K -----    [ anon ]
+00007f0978128000      4K -----    [ anon ]
+00007f0978129000   6144K rw---    [ anon ]
+00007f0978729000      4K -----    [ anon ]
+00007f097872a000  10240K rw---    [ anon ]
+00007f097912a000      4K -----    [ anon ]
+00007f097912b000  10240K rw---    [ anon ]
+00007f0979b2b000      4K -----    [ anon ]
+00007f0979b2c000  10240K rw---    [ anon ]
+00007f097a52c000     28K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqtiff.so
+00007f097a533000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqtiff.so
+00007f097a733000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqtiff.so
+00007f097a734000     20K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqtga.so
+00007f097a739000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqtga.so
+00007f097a938000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqtga.so
+00007f097a939000    340K r-x--  /opt/KeySight/ADS2015/lib/linux_x86_64/libQtSvg.so.4.8.6
+00007f097a98e000   2048K -----  /opt/KeySight/ADS2015/lib/linux_x86_64/libQtSvg.so.4.8.6
+00007f097ab8e000     12K rw---  /opt/KeySight/ADS2015/lib/linux_x86_64/libQtSvg.so.4.8.6
+00007f097ab91000     20K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqsvg.so
+00007f097ab96000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqsvg.so
+00007f097ad96000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqsvg.so
+00007f097ad97000    212K r-x--  /usr/lib64/liblcms.so.1.0.19
+00007f097adcc000   2048K -----  /usr/lib64/liblcms.so.1.0.19
+00007f097afcc000      8K rw---  /usr/lib64/liblcms.so.1.0.19
+00007f097afce000      8K rw---    [ anon ]
+00007f097afd0000    444K r-x--  /usr/lib64/libmng.so.1.0.0
+00007f097b03f000   2044K -----  /usr/lib64/libmng.so.1.0.0
+00007f097b23e000     20K rw---  /usr/lib64/libmng.so.1.0.0
+00007f097b243000     24K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqmng.so
+00007f097b249000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqmng.so
+00007f097b448000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqmng.so
+00007f097b449000     28K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqjpeg.so
+00007f097b450000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqjpeg.so
+00007f097b650000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqjpeg.so
+00007f097b651000     28K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqico.so
+00007f097b658000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqico.so
+00007f097b857000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqico.so
+00007f097b858000     28K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqgif.so
+00007f097b85f000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqgif.so
+00007f097ba5e000      4K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/plugins/imageformats/libqgif.so
+00007f097ba5f000   5580K r----  /opt/Synopsys/Verdi2015/etc/novas.rcc
+00007f097bfd2000    184K rw---    [ anon ]
+00007f097c000000    132K rw---    [ anon ]
+00007f097c021000  65404K -----    [ anon ]
+00007f0980009000    140K r----  /usr/share/fonts/liberation/LiberationSans-Regular.ttf
+00007f098002c000      8K rw---    [ anon ]
+00007f098002e000     60K r----  /opt/Synopsys/Verdi2015/font/Vera/VeraBd.ttf
+00007f098003d000     68K r----  /opt/Synopsys/Verdi2015/font/Vera/Vera.ttf
+00007f098004e000     20K r----  /opt/Synopsys/Verdi2015/etc/access/access.rcc
+00007f0980053000     12K r--s-  /var/cache/fontconfig/87f5e051180a7a75f16eb6fe7dbd3749-le64.cache-3
+00007f0980056000     36K r--s-  /var/cache/fontconfig/b79f3aaa7d385a141ab53ec885cc22a8-le64.cache-3
+00007f098005f000     16K r--s-  /var/cache/fontconfig/b67b32625a2bb51b023d3814a918f351-le64.cache-3
+00007f0980063000     36K r--s-  /var/cache/fontconfig/12b26b760a24f8b4feb03ad48a333a72-le64.cache-3
+00007f098006c000     28K r--s-  /var/cache/fontconfig/928306c3ad40271d946e41014a49fc28-le64.cache-3
+00007f0980073000     28K r--s-  /var/cache/fontconfig/fa1582dab13e7e8e44e5a9424d309f0e-le64.cache-3
+00007f098007a000     20K r--s-  /var/cache/fontconfig/18db0204b1f108dd01663673626fcd3d-le64.cache-3
+00007f098007f000      8K r-x--  /usr/lib64/gconv/UTF-16.so
+00007f0980081000   2048K -----  /usr/lib64/gconv/UTF-16.so
+00007f0980281000      4K r----  /usr/lib64/gconv/UTF-16.so
+00007f0980282000      4K rw---  /usr/lib64/gconv/UTF-16.so
+00007f0980283000      4K -----    [ anon ]
+00007f0980284000  10240K rw---    [ anon ]
+00007f0980c84000      4K -----    [ anon ]
+00007f0980c85000  10240K rw---    [ anon ]
+00007f0981685000     48K r-x--  /lib64/libnss_files-2.12.so
+00007f0981691000   2048K -----  /lib64/libnss_files-2.12.so
+00007f0981891000      4K r----  /lib64/libnss_files-2.12.so
+00007f0981892000      4K rw---  /lib64/libnss_files-2.12.so
+00007f0981893000      4K -----    [ anon ]
+00007f0981894000  11292K rw---    [ anon ]
+00007f098239b000    116K r-x--  /lib64/libtinfo.so.5.7
+00007f09823b8000   2044K -----  /lib64/libtinfo.so.5.7
+00007f09825b7000     16K rw---  /lib64/libtinfo.so.5.7
+00007f09825bb000     12K rw---    [ anon ]
+00007f09825be000     84K r-x--  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libgcc_s.so.1
+00007f09825d3000   2044K -----  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libgcc_s.so.1
+00007f09827d2000      4K rw---  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libgcc_s.so.1
+00007f09827d3000    936K r-x--  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libstdc++.so.6
+00007f09828bd000   2044K -----  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libstdc++.so.6
+00007f0982abc000     32K r----  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libstdc++.so.6
+00007f0982ac4000      8K rw---  /opt/Synopsys/Verdi2015/etc/lib/libstdc++/linux64/libstdc++.so.6
+00007f0982ac6000     92K rw---    [ anon ]
+00007f0982add000    148K r-x--  /opt/KeySight/ADS2015/lib/linux_x86_64/libpng12.so.0
+00007f0982b02000   2044K -----  /opt/KeySight/ADS2015/lib/linux_x86_64/libpng12.so.0
+00007f0982d01000      4K rw---  /opt/KeySight/ADS2015/lib/linux_x86_64/libpng12.so.0
+00007f0982d02000     20K rw---    [ anon ]
+00007f0982d07000    252K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtSql.so.4.8.5
+00007f0982d46000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtSql.so.4.8.5
+00007f0982f45000     12K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtSql.so.4.8.5
+00007f0982f48000   2884K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQt3Support.so.4.8.5
+00007f0983219000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQt3Support.so.4.8.5
+00007f0983419000    124K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQt3Support.so.4.8.5
+00007f0983438000   1068K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtNetwork.so.4.8.5
+00007f0983543000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtNetwork.so.4.8.5
+00007f0983743000     32K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtNetwork.so.4.8.5
+00007f098374b000      4K rw---    [ anon ]
+00007f098374c000  23972K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtWebKit.so.4.9.4
+00007f0984eb5000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtWebKit.so.4.9.4
+00007f09850b4000   1632K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtWebKit.so.4.9.4
+00007f098524c000    168K rw---    [ anon ]
+00007f0985276000    256K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtXml.so.4.8.5
+00007f09852b6000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtXml.so.4.8.5
+00007f09854b5000     12K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtXml.so.4.8.5
+00007f09854b8000   2912K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtCore.so.4.8.5
+00007f0985790000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtCore.so.4.8.5
+00007f0985990000     60K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtCore.so.4.8.5
+00007f098599f000      8K rw---    [ anon ]
+00007f09859a1000  10672K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtGui.so.4.8.5
+00007f098640d000   2048K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtGui.so.4.8.5
+00007f098660d000    340K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtGui.so.4.8.5
+00007f0986662000     12K rw---    [ anon ]
+00007f0986665000     84K r-x--  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtSolutions_MotifExtension-2.7.so.1.0.0
+00007f098667a000   2044K -----  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtSolutions_MotifExtension-2.7.so.1.0.0
+00007f0986879000      8K rw---  /opt/Synopsys/Verdi2015/platform/linux64/bin/libQtSolutions_MotifExtension-2.7.so.1.0.0
+00007f098687b000      4K rw---    [ anon ]
+00007f098687c000     12K r--s-  /var/cache/fontconfig/0b1bcc92b4d25cc154d77dafe3bceaa0-le64.cache-3
+00007f098687f000      4K r--s-  /var/cache/fontconfig/1248881498ac025e45c3042f6afe9284-le64.cache-3
+00007f0986880000     12K r--s-  /var/cache/fontconfig/beeeeb3dfe132a8a0633a017c99ce0c0-le64.cache-3
+00007f0986883000     28K r--s-  /usr/lib64/gconv/gconv-modules.cache
+00007f098688a000     16K rw---    [ anon ]
+00007ffde1f56000    132K rw---    [ stack ]
+00007ffde1ff2000      4K r-x--    [ anon ]
+ffffffffff600000      4K r-x--    [ anon ]
+ total           973068K
+Thread 9 (Thread 0x7f0982293700 (LWP 86282)):
+#0  0x0000003dfdae13e3 in select () from /lib64/libc.so.6
+#1  0x000000000687c9db in NotifierThreadProc ()
+#2  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#3  0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 8 (Thread 0x7f0980c83700 (LWP 86284)):
+#0  0x0000003dfdaacaad in nanosleep () from /lib64/libc.so.6
+#1  0x0000003dfdaac920 in sleep () from /lib64/libc.so.6
+#2  0x0000000004d30d4e in LicenseCheckUtility ()
+#3  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#4  0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 7 (Thread 0x7f097a52b700 (LWP 86289)):
+#0  0x0000003dfde0b63c in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+#1  0x00007f0985542fbb in QWaitCondition::wait(QMutex*, unsigned long) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#2  0x00007f098606d4d6 in QFileInfoGatherer::run() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#3  0x00007f0985542a5c in QThreadPrivate::start(void*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#4  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#5  0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 6 (Thread 0x7f0979b2a700 (LWP 86290)):
+#0  0x0000003dfde0b63c in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+#1  0x00007f0985542fbb in QWaitCondition::wait(QMutex*, unsigned long) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#2  0x00007f098606d4d6 in QFileInfoGatherer::run() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#3  0x00007f0985542a5c in QThreadPrivate::start(void*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#4  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#5  0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 5 (Thread 0x7f0979129700 (LWP 86291)):
+#0  0x0000003dfdae13e3 in select () from /lib64/libc.so.6
+#1  0x00007f098566a033 in qt_safe_select(int, fd_set*, fd_set*, fd_set*, timeval const*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#2  0x00007f098566d86c in QEventDispatcherUNIXPrivate::doSelect(QFlags<QEventLoop::ProcessEventsFlag>, timeval*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#3  0x00007f098566e382 in QEventDispatcherUNIX::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#4  0x00007f098563d4ef in QEventLoop::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#5  0x00007f098563d778 in QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#6  0x00007f098553fbb0 in QThread::exec() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#7  0x00007f098561deff in QInotifyFileSystemWatcherEngine::run() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#8  0x00007f0985542a5c in QThreadPrivate::start(void*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#9  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#10 0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 4 (Thread 0x7f0973fff700 (LWP 86292)):
+#0  0x0000003dfdae13e3 in select () from /lib64/libc.so.6
+#1  0x00007f098566a033 in qt_safe_select(int, fd_set*, fd_set*, fd_set*, timeval const*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#2  0x00007f098566d86c in QEventDispatcherUNIXPrivate::doSelect(QFlags<QEventLoop::ProcessEventsFlag>, timeval*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#3  0x00007f098566e382 in QEventDispatcherUNIX::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#4  0x00007f098563d4ef in QEventLoop::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#5  0x00007f098563d778 in QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#6  0x00007f098553fbb0 in QThread::exec() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#7  0x00007f098561deff in QInotifyFileSystemWatcherEngine::run() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#8  0x00007f0985542a5c in QThreadPrivate::start(void*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#9  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#10 0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 3 (Thread 0x7f0978728700 (LWP 87834)):
+#0  0x0000003dfde0b63c in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+#1  0x00000000065143bf in ffrSynchronizer::CondWait(int) ()
+#2  0x00000000065858ec in ffrObject::LoadThread(void*) ()
+#3  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#4  0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 2 (Thread 0x7f09735fe700 (LWP 89487)):
+#0  0x0000003dfde0b63c in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+#1  0x00000000065143bf in ffrSynchronizer::CondWait(int) ()
+#2  0x00000000065858ec in ffrObject::LoadThread(void*) ()
+#3  0x0000003dfde07a51 in start_thread () from /lib64/libpthread.so.0
+#4  0x0000003dfdae896d in clone () from /lib64/libc.so.6
+Thread 1 (Thread 0x7f0982395780 (LWP 86276)):
+#0  0x0000003dfda6848d in _IO_proc_close@@GLIBC_2.2.5 () from /lib64/libc.so.6
+#1  0x0000003dfda72743 in _IO_new_file_close_it () from /lib64/libc.so.6
+#2  0x0000003dfda664f8 in fclose@@GLIBC_2.2.5 () from /lib64/libc.so.6
+#3  0x000000000693f5a5 in _sys_pclose ()
+#4  0x00000000068ec2bf in system ()
+#5  0x00000000068dfa60 in sysiCrash ()
+#6  0x00000000068dfecc in actUnexpectAction ()
+#7  0x00000000068dfee1 in catchSignalCB ()
+#8  <signal handler called>
+#9  0x000000000340b2f8 in getSignalDialog_C::treeNodeSetSelect(QStandardItem*, char) ()
+#10 0x0000000003410b0c in getSignalDialog_C::treeNodeSelect(QStandardItem*, char, char, char) ()
+#11 0x00000000034139c5 in getSignalDialog_C::_do_refresh() ()
+#12 0x0000000003415af5 in getSignalDialog_C::_refresh() ()
+#13 0x0000000003415c5d in getSignalDialog_C::displayForm() ()
+#14 0x00000000031281a7 in getSignalUI(_wtWindowRec*, int, char**, void*) ()
+#15 0x00000000067adfc8 in cmdiMapFunc ()
+#16 0x00000000067adff4 in cmdMapFunc ()
+#17 0x0000000004adb39e in qBaseWindow_V::dispatchFuncUI(char*, int, char**, void*) ()
+#18 0x0000000004ade342 in qBaseWindow_V::_invokeUI() ()
+#19 0x0000000004aef1b2 in qBaseWindow_V::qt_static_metacall(QObject*, QMetaObject::Call, int, void**) ()
+#20 0x00007f0985653bcf in QMetaObject::activate(QObject*, QMetaObject const*, int, void**) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#21 0x00007f0985b9d542 in QAction::triggered(bool) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#22 0x00007f0985b9d730 in QAction::activate(QAction::ActionEvent) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#23 0x00007f0985f3b6bf in QAbstractButtonPrivate::click() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#24 0x00007f0985f3b96c in QAbstractButton::mouseReleaseEvent(QMouseEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#25 0x00007f0985ff5e9a in QToolButton::mouseReleaseEvent(QMouseEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#26 0x00007f0985bf3239 in QWidget::event(QEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#27 0x00007f0985ba374c in QApplicationPrivate::notify_helper(QObject*, QEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#28 0x00007f0985ba844b in QApplication::notify(QObject*, QEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#29 0x0000000004c1898e in QwApplication::notify(QObject*, QEvent*) ()
+#30 0x00007f098563e7de in QCoreApplication::notifyInternal(QObject*, QEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#31 0x00007f0985ba458b in QApplicationPrivate::sendMouseEvent(QWidget*, QMouseEvent*, QWidget*, QWidget*, QWidget**, QPointer<QWidget>&, bool) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#32 0x00007f0985c1da64 in QETWidget::translateMouseEvent(_XEvent const*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#33 0x00007f0985c1c455 in QApplication::x11ProcessEvent(_XEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtGui.so.4
+#34 0x00007f0986671bda in qmotif_event_dispatcher(_XEvent*) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtSolutions_MotifExtension-2.7.so.1
+#35 0x0000003e07e21614 in XtDispatchEvent () from /usr/lib64/libXt.so.6
+#36 0x0000003e07e2ebf9 in XtAppProcessEvent () from /usr/lib64/libXt.so.6
+#37 0x00007f098667047a in QtMotif::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtSolutions_MotifExtension-2.7.so.1
+#38 0x00007f098563d4ef in QEventLoop::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#39 0x00007f098563d778 in QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#40 0x00007f0985642458 in QCoreApplication::exec() () from /opt/Synopsys/Verdi2015/platform/LINUXAMD64/bin/libQtCore.so.4
+#41 0x0000000004b9aa55 in QwApplication::exec() ()
+#42 0x0000000001ca4824 in FUNC_DEBMAIN_LOOP() ()
+#43 0x0000000001ca9407 in main ()
+---------------
+branchName=Verdi3_K-2015.09-SP1-1 cnlDate=01/21/2016 cnlEnv=Linux.0/64bit
+uname(Linux IC 2.6.32-573.el6.x86_64 #1 SMP Wed Jul 1 18:23:37 EDT 2015 x86_64)
+---------------
+Process Size: 996421632 bytes
+verdi detected abnormal termination.
+Log information written to
+/home/IC/Desktop/FIFO_Verdi/sim/verdiLog/sysinfo.tar.
+Please send this file to customer support.

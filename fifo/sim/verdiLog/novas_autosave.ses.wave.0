@@ -1,0 +1,81 @@
+Magic 271485
+Revision Verdi3_K-2015.09-SP1-1
+
+; Window Layout <x> <y> <width> <height> <signalwidth> <valuewidth>
+viewPort 0 28 1920 483 199 65
+
+; File list:
+; openDirFile [-d delimiter] [-s time_offset] [-rf auto_bus_rule_file] path_name file_name
+openDirFile -d / "" "/home/IC/Desktop/FIFO_Verdi/sim/seq_1011.fsdb"
+
+; file time scale:
+; fileTimeScale ### s|ms|us|ns|ps
+
+; signal spacing:
+signalSpacing 5
+
+; windowTimeUnit is used for zoom, cursor & marker
+; waveform viewport range
+zoom 0.000000 105.343000
+cursor 70.000000
+marker 0.000000
+
+; user define markers
+; userMarker time_pos marker_name color linestyle
+; visible top row signal index
+top 0
+; marker line index
+markerPos 6
+
+; event list
+; addEvent event_name event_expression
+; curEvent event_name
+
+
+
+COMPLEX_EVENT_BEGIN
+
+
+COMPLEX_EVENT_END
+
+
+
+; toolbar current search type
+; curSTATUS search_type
+curSTATUS ByChange
+
+
+aliasmapname detect_1011.cstate
+nalias D_10		4'b0100		NULL
+nalias IDLE		4'b0001		NULL
+nalias D_101		4'b1000		NULL
+nalias D_1		4'b0010		NULL
+
+addGroup "G1"
+activeDirFile "" "/home/IC/Desktop/FIFO_Verdi/sim/seq_1011.fsdb"
+addSignal -h 15 /tb_seq_1011/detect_1011_inst/clk_i
+addSignal -h 15 -UNSIGNED -HEX -holdScope cstate[3:0]
+aliasname detect_1011.cstate
+addSignal -h 15 -UNSIGNED -HEX -holdScope nstate[3:0]
+addSignal -h 15 -holdScope out_o
+addSignal -h 15 -holdScope rst_n_i
+addSignal -h 15 -holdScope seq_i
+addGroup "G2"
+
+; getSignalForm Scope Hierarchy Status
+; active file of getSignalForm
+activeDirFile "" "/home/IC/Desktop/FIFO_Verdi/sim/seq_1011.fsdb"
+
+GETSIGNALFORM_SCOPE_HIERARCHY_BEGIN
+getSignalForm close
+
+"/tb_seq_1011"
+
+SCOPE_LIST_BEGIN
+"/tb_seq_1011"
+"/tb_seq_1011/detect_1011_inst"
+SCOPE_LIST_END
+
+GETSIGNALFORM_SCOPE_HIERARCHY_END
+
+
